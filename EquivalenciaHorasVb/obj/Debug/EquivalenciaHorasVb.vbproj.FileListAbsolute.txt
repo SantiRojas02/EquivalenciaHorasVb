@@ -1,0 +1,9 @@
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\bin\Debug\EquivalenciaHorasVb.exe.config
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\bin\Debug\EquivalenciaHorasVb.exe
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\bin\Debug\EquivalenciaHorasVb.pdb
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\bin\Debug\EquivalenciaHorasVb.xml
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\obj\Debug\EquivalenciaHorasVb.Resources.resources
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\obj\Debug\EquivalenciaHorasVb.vbproj.GenerateResource.Cache
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\obj\Debug\EquivalenciaHorasVb.exe
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\obj\Debug\EquivalenciaHorasVb.xml
+S:\Programacion\EquivalenciaHorasVb\EquivalenciaHorasVb\EquivalenciaHorasVb\obj\Debug\EquivalenciaHorasVb.pdb
